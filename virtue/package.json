@@ -14,3 +14,6 @@
     "discord.js": "^14.18.0"
   }
 }
+"scripts": {
+  "start": "node index.js"
+}
